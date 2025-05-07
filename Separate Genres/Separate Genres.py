@@ -5,8 +5,8 @@ from requests.exceptions import ReadTimeout
 from spotipy.exceptions import SpotifyException
 
 # Configuración de autenticación
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id='bef200f48acf44a483841d4e2928183f',
-                                               client_secret='d1d71acaca264be79b63ad72c78af448',
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id='Your Client ID',
+                                               client_secret='Your Secret Client',
                                                redirect_uri='http://localhost:8888/callback',
                                                scope='playlist-read-private playlist-read-collaborative playlist-modify-public playlist-modify-private'))
 
