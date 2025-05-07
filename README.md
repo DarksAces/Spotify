@@ -9,7 +9,7 @@ This repository contains two Python applications designed to help organize and c
 
 These tools are useful for music lovers who want to automate playlist curation based on musical attributes.
 
-============================================================
+
 🎧 Descripción General del Proyecto (Español)
 ============================================================
 
@@ -20,7 +20,7 @@ Este repositorio contiene dos aplicaciones en Python diseñadas para ayudar a or
 
 Estas herramientas son útiles para los amantes de la música que desean automatizar la creación de playlists según atributos musicales.
 
-============================================================
+
 🔑 How to Get Your Spotify Client ID and Secret (English)
 ============================================================
 
@@ -39,7 +39,7 @@ Estas herramientas son útiles para los amantes de la música que desean automat
    - After creating your app, you'll be redirected to the app's dashboard.
    - Here, you'll find your **Client ID** and **Client Secret**. These are the values you’ll need to input in your code.
 
-============================================================
+
 🔑 Cómo Obtener Tu Client ID y Client Secret de Spotify (Español)
 ============================================================
 
